@@ -1,0 +1,17 @@
+System users: avahi, colord, kernoops, message+, nat, root, rtkit, syslog, systemd+, whoopsie
+Processes running: 357
+User processes:
+avahi: 2
+colord: 1
+kernoops: 2
+message+: 1
+nat: 112
+root: 234
+rtkit: 1
+syslog: 1
+systemd+: 2
+whoopsie: 1
+Total memory used: 4688.3 mB
+Total cpu used: 19.4 %
+Uses the most memory: /snap/pycharm-commun
+Uses the most cpu: /home/nat/projects/O
